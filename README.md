@@ -13,7 +13,7 @@
     <img src="./assets/btn-cv.svg" alt="CV" height="52" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hector-padilla-4a7625164">
+  <a href="https://www.linkedin.com/in/hector-luis-diaz-padilla-4a7625164">
     <img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="52" />
   </a>
   &nbsp;
@@ -103,7 +103,7 @@ Proyectos y detalle tecnico: [portafolio](https://totor054.github.io/Portafolio-
     <img src="./assets/btn-cv.svg" alt="CV" height="52" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hector-padilla-4a7625164">
+  <a href="https://www.linkedin.com/in/hector-luis-diaz-padilla-4a7625164">
     <img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="52" />
   </a>
 </div>
@@ -123,7 +123,7 @@ Proyectos y detalle tecnico: [portafolio](https://totor054.github.io/Portafolio-
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hector-padilla-4a7625164">
+  <a href="https://www.linkedin.com/in/hector-luis-diaz-padilla-4a7625164">
     <img src="./assets/contact-linkedin.svg" alt="LinkedIn" height="64" />
   </a>
   &nbsp;
