@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070b09"/>
+      <stop offset="50%" stop-color="#0e1612"/>
+      <stop offset="100%" stop-color="#15241c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2fd4a1"/>
+      <stop offset="55%" stop-color="#8ef0c9"/>
+      <stop offset="100%" stop-color="#e0b35a"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="92%" cy="8%" r="48%">
+      <stop offset="0%" stop-color="#2fd4a1" stop-opacity="0.32">
+        <animate attributeName="stop-opacity" values="0.2;0.4;0.2" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#2fd4a1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="10%" cy="90%" r="42%">
+      <stop offset="0%" stop-color="#e0b35a" stop-opacity="0.16">
+        <animate attributeName="stop-opacity" values="0.08;0.22;0.08" dur="6.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#e0b35a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2fd4a1" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2fd4a1" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#e0b35a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#glow1)"/>
+  <rect width="1200" height="340" fill="url(#glow2)"/>
+  <g opacity="0.06" stroke="#f2f7f4" stroke-width="1">
+    <path d="M0 68H1200M0 136H1200M0 204H1200M0 272H1200"/>
+    <path d="M200 0V340M400 0V340M600 0V340M800 0V340M1000 0V340"/>
+  </g>
+  <text x="56" y="72" fill="#95a59b" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3">GITHUB PROFILE  |  @Totor054</text>
+  <text x="56" y="140" fill="#f2f7f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="800">Hector Luis</text>
+  <text x="56" y="205" fill="url(#accent)" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="800">Diaz Padilla</text>
+  <rect x="56" y="228" width="220" height="3" rx="2" fill="url(#line)">
+    <animate attributeName="width" values="120;280;220" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="56" y="268" fill="#c9d1d9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Full Stack Developer  |  Tegucigalpa, Honduras</text>
+  <text x="56" y="302" fill="#95a59b" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Angular  |  React  |  Node.js  |  SQL Server  |  TypeScript</text>
+</svg>

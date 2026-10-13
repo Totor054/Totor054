@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e1612"/>
+      <stop offset="100%" stop-color="#132019"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="24" fill="url(#card)" stroke="#2a5c4a" stroke-width="1.5"/>
+  <rect x="0" y="0" width="8" height="220" rx="4" fill="#2fd4a1"/>
+  <text x="48" y="48" fill="#e0b35a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">SOBRE MI</text>
+  <text x="48" y="90" fill="#f2f7f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="800">Full Stack Developer</text>
+  <text x="48" y="128" fill="#95a59b" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Diseno y construyo productos web de punta a punta: frontend, APIs y datos.</text>
+  <text x="48" y="156" fill="#95a59b" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Me importa que el codigo llegue a usuarios reales, no solo a una demo.</text>
+  <text x="48" y="194" fill="#2fd4a1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">GitHub + GitLab  |  @Totor054  |  Tegucigalpa, Honduras</text>
+</svg>

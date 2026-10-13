@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="72" viewBox="0 0 560 72">
+  <defs>
+    <filter id="s" x="-10%" y="-20%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#e0b35a" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="558" height="70" rx="18" fill="#0e1612" stroke="#e0b35a" stroke-width="1.5" filter="url(#s)"/>
+  <rect x="1" y="1" width="6" height="70" rx="3" fill="#e0b35a"/>
+  <text x="28" y="30" fill="#95a59b" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">INSTITUCIONAL</text>
+  <text x="28" y="52" fill="#f2f7f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">hldiazp@unah.hn</text>
+  <text x="532" y="44" text-anchor="end" fill="#e0b35a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">&gt;</text>
+</svg>

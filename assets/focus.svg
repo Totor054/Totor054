@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210">
+  <defs>
+    <filter id="s" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <g transform="translate(0,8)" filter="url(#s)">
+    <rect width="282" height="190" rx="20" fill="#0e1612" stroke="#2a5c4a" stroke-width="1.4"/>
+    <rect x="20" y="24" width="36" height="4" rx="2" fill="#2fd4a1"/>
+    <text x="20" y="58" fill="#e0b35a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">PRODUCTO</text>
+    <text x="20" y="100" fill="#f2f7f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="800">Ciclo completo</text>
+    <text x="20" y="136" fill="#95a59b" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">UI · API · Datos</text>
+  </g><g transform="translate(306,8)" filter="url(#s)">
+    <rect width="282" height="190" rx="20" fill="#0e1612" stroke="#2a5c4a" stroke-width="1.4"/>
+    <rect x="20" y="24" width="36" height="4" rx="2" fill="#2fd4a1"/>
+    <text x="20" y="58" fill="#e0b35a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">EQUIPO</text>
+    <text x="20" y="100" fill="#f2f7f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="800">Colaboracion</text>
+    <text x="20" y="136" fill="#95a59b" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Comunicacion clara</text>
+  </g><g transform="translate(612,8)" filter="url(#s)">
+    <rect width="282" height="190" rx="20" fill="#0e1612" stroke="#2a5c4a" stroke-width="1.4"/>
+    <rect x="20" y="24" width="36" height="4" rx="2" fill="#2fd4a1"/>
+    <text x="20" y="58" fill="#e0b35a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">CALIDAD</text>
+    <text x="20" y="100" fill="#f2f7f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="800">Ownership</text>
+    <text x="20" y="136" fill="#95a59b" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Hasta el release</text>
+  </g><g transform="translate(918,8)" filter="url(#s)">
+    <rect width="282" height="190" rx="20" fill="#0e1612" stroke="#2a5c4a" stroke-width="1.4"/>
+    <rect x="20" y="24" width="36" height="4" rx="2" fill="#2fd4a1"/>
+    <text x="20" y="58" fill="#e0b35a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">STACK</text>
+    <text x="20" y="100" fill="#f2f7f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="800">Aprendizaje</text>
+    <text x="20" y="136" fill="#95a59b" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Web · Python · IA</text>
+  </g>
+</svg>
