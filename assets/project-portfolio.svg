@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="190" viewBox="0 0 580 190">
+  <defs>
+    <filter id="s" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <g transform="translate(0,4)" filter="url(#s)">
+    <rect width="580" height="182" rx="20" fill="#0e1612" stroke="#2a5c4a" stroke-width="1.4"/>
+    <rect x="28" y="28" width="36" height="4" rx="2" fill="#2fd4a1"/>
+    <text x="28" y="62" fill="#e0b35a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">PROYECTOS</text>
+    <text x="28" y="104" fill="#f2f7f4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="800">Portafolio</text>
+    <text x="28" y="140" fill="#95a59b" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Casos · stack · sitios en vivo</text>
+    <text x="552" y="108" text-anchor="end" fill="#2fd4a1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">&gt;</text>
+  </g>
+</svg>

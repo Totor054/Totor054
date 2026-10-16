@@ -50,7 +50,17 @@
   <img src="./assets/focus.svg" alt="Enfoque profesional" width="100%" />
 </div>
 
-Proyectos y detalle tecnico: [portafolio](https://totor054.github.io/Portafolio-Hector-Diaz/) · [CV](https://totor054.github.io/CV-HECTOR-DIAZ/)
+### Proyectos y detalle tecnico
+
+<div align="center">
+  <a href="https://totor054.github.io/Portafolio-Hector-Diaz/">
+    <img src="./assets/project-portfolio.svg" alt="Portafolio" height="190" />
+  </a>
+  &nbsp;
+  <a href="https://totor054.github.io/CV-HECTOR-DIAZ/">
+    <img src="./assets/project-cv.svg" alt="CV" height="190" />
+  </a>
+</div>
 
 <div align="center">
   <img src="./assets/section-line.svg" width="100%" alt="" />
